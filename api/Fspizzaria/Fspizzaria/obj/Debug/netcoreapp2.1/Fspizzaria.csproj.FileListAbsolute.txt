@@ -1,0 +1,14 @@
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\bin\Debug\netcoreapp2.1\Fspizzaria.deps.json
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\bin\Debug\netcoreapp2.1\Fspizzaria.runtimeconfig.json
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\bin\Debug\netcoreapp2.1\Fspizzaria.runtimeconfig.dev.json
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\bin\Debug\netcoreapp2.1\Fspizzaria.dll
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\obj\Debug\netcoreapp2.1\Fspizzaria.csprojAssemblyReference.cache
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\obj\Debug\netcoreapp2.1\Fspizzaria.csproj.CoreCompileInputs.cache
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\obj\Debug\netcoreapp2.1\Fspizzaria.RazorAssemblyInfo.cache
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\obj\Debug\netcoreapp2.1\Fspizzaria.RazorAssemblyInfo.cs
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\obj\Debug\netcoreapp2.1\Fspizzaria.AssemblyInfoInputs.cache
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\obj\Debug\netcoreapp2.1\Fspizzaria.AssemblyInfo.cs
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\obj\Debug\netcoreapp2.1\Fspizzaria.RazorTargetAssemblyInfo.cache
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\bin\Debug\netcoreapp2.1\Fspizzaria.pdb
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\obj\Debug\netcoreapp2.1\Fspizzaria.dll
+C:\Users\40270522859\Desktop\FSpizzaria\api\Fspizzaria\Fspizzaria\obj\Debug\netcoreapp2.1\Fspizzaria.pdb
