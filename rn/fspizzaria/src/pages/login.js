@@ -35,7 +35,7 @@ class Login extends Component{
         return(
             <View style={styles.main}>
              
-              <Text style={styles.titulo}>Login</Text>
+              <Text style={styles.titulo}>Login da Pizzaria</Text>
             <TextInput
               style={styles.input}
               placeholder="email"
@@ -67,17 +67,12 @@ const styles = StyleSheet.create({
       ...StyleSheet.absoluteFillObject,
       backgroundColor: "rgba(183, 39, 255, 0.79)"
     },
-    barraLogo:{
-      width: "100%",
-      height: 200,
-      marginTop: 0,
-      marginBottom: 10
-    },
     titulo:{
       fontSize: 25,
-      color: "#29A9E0"
+      color: "green"
     },
     main: {
+      marginTop: 130,
       width: "100%",
       height: "100%",
       alignContent: "center",
@@ -98,14 +93,14 @@ const styles = StyleSheet.create({
     btnLoginText: {
       fontSize: 15,
       fontFamily: "Myriad Pro",
-      color: "#29A9E0",
+      color: "green",
       letterSpacing: 4
     },
     
     input: {
       borderWidth: 2,
       borderRadius: 5,
-      borderColor: "#29A9E0",
+      borderColor: "yellow",
       marginTop: 20,
       width: 270,
       marginBottom: 20,
